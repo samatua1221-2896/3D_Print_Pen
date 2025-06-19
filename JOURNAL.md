@@ -17,3 +17,8 @@ So far I've been working on the schematic that I can use, I eventually settled o
 ![Screenshot 2025-06-18 5 01 48 PM](https://github.com/user-attachments/assets/9a111527-ea79-4895-9bb5-a3904e44d945)
 
 Tomorrow I'll work on arranging the PCB and starting to work on the CAD and wiring structure for the pen.
+
+
+# June 19, 2025 (6 hrs)
+
+Today I worked on getting my BOM in order and finishing up the design of my PCB. So far, it's looking like theres not too much
