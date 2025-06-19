@@ -19,6 +19,9 @@ So far I've been working on the schematic that I can use, I eventually settled o
 Tomorrow I'll work on arranging the PCB and starting to work on the CAD and wiring structure for the pen.
 
 
-# June 19, 2025 (6 hrs)
+# June 19, 2025 (8 hrs)
 
-Today I worked on getting my BOM in order and finishing up the design of my PCB. So far, it's looking like theres not too much
+Today I worked on getting my BOM in order and finishing up the design of my PCB. So far, it's looking like theres not too much to do. I did start working on my BOM and figuring out how to get the products, I started using AliExpress and was extrememly happy to find that almost everything I needed was super cheap and not a problem to find at all. Then I went to go check out and found that none of them ship to Hawaii (:( whyyyy tarrifs) so it looks like I'm going to be searching on Amazon for the best prices again even if that means a little bit of a cost raise. 
+
+Aside from that, now it looks like I've finished my PCB and it's not looking to bad if I say so myself. The pieces are relatively simple to fix and put on so I think it's looking pretty good so far.
+
