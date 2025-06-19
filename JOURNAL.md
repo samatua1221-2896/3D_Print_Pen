@@ -14,6 +14,6 @@ Based on the pictures below, I figured out that the pen had a potentiometer to a
 
 So far I've been working on the schematic that I can use, I eventually settled on keeping the manual potentiometer instead of a LCD screen, aside from that, I've just been working to keep the whole thing pretty simple and not too complex in its parts, also using THT components cause I've never had experience working with surface mounted components. Below is the main schematic that I have so far for it.
 
-![alt text](image.png)
+![Screenshot 2025-06-18 5 01 48 PM](https://github.com/user-attachments/assets/9a111527-ea79-4895-9bb5-a3904e44d945)
 
 Tomorrow I'll work on arranging the PCB and starting to work on the CAD and wiring structure for the pen.
