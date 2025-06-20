@@ -25,3 +25,6 @@ Today I worked on getting my BOM in order and finishing up the design of my PCB.
 
 Aside from that, now it looks like I've finished my PCB and it's not looking to bad if I say so myself. The pieces are relatively simple to fix and put on so I think it's looking pretty good so far.
 
+![Screenshot 2025-06-19 11 49 11 PM](https://github.com/user-attachments/assets/ae6cd512-47b7-4854-95fc-5c38adcaf6da)
+
+
