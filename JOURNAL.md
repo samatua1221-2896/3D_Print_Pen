@@ -46,3 +46,5 @@ I actually did end up having a much harder time dealing with the actual PCB desi
 I did stop my journal a little early yesterday because of one of my brother's basketball games, but I did end up figuring out all of my BOM materials. So far, it's looking like it'll be around $100, well under the grant limit for my project I hope (fingers crossed!) Listed below is my current BOM that hopefully wont change much more since I'll start working on the CAD now. Majority of my supplies are going to be sourced from Digikey with "higher quality" items coming from Amazon.
 
 ![Screenshot 2025-06-21 8 35 13 PM](https://github.com/user-attachments/assets/c7131e94-2cbb-46b5-809a-d3b2fc227a87)
+
+Now I'm going to start making mockups for the whole 3D pen in Onshape, hopefully it won't take too long.
