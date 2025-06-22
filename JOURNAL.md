@@ -29,8 +29,15 @@ Aside from that, now it looks like I've finished my PCB and it's not looking to 
 
 I did spend quite a bit of time trying to fix all the rails, but pretty much I think this should be the final version of my PCB. Im planning on having the buttons on top and the power and potentiometer coming out of the back just to avoid having some things at awkward positions while I'm using the pen. 
 
-# June 20, 2025 (5 hrs)
+# June 20, 2025 
 
 I spend A LOT of time trying to finalize my BOM today so I can start working on the CAD to place everything. I did start with Amazon thinking I wouldn't be able to afford shipping from anywhere else when I happened to stumble on DigiKey! Thank god they're US based so there's not going to be too many charges aside from regular shipping to Hawaii. Majority of the parts that I'm going to need are just going to be soldered though-hole on my PCB since it's easier for my project. I am keeping some of the parts on Amazon just because I feel like those should be higher quality items that are vetted more for my project so hopefully that's ok. I did end up picking a nozzle from what an Ender 3D printer would be using because I didn't want my project to be your run-of-the-mill 3D pen, I did want to try and be a little more creative so I wanted to try and play around with that type of heat tip.
 
 So far this is what I have in my BOM, it's pretty messy but I think I should be able to clean it up pretty nicely over the next two days. For me personally, I'm trying to finish this project BEFORE July so I can eventually get enough points for that 3D printer.
+
+
+# June 21, 2025 (10 hrs - last 2 days)
+
+I actually did end up having a much harder time dealing with the actual PCB design of the baord once I realized that my tracks were probabaly too thin for the amount of power that I was trying to use. After plenty of time trying to figure out how to asign net classes to all of my parts, I eventually was able to wire everything up and after even MORE time I was able to manuever all of my wiring around the thicker lines. 
+
+I did stop my journal a little early yesterday because of one of my brother's basketball games, but I did end up figuring out all of my BOM materials. So far, it's looking like it'll be around $100, well under the grant limit for my project I hope (fingers crossed!) Listed below is my current BOM that hopefully wont change much more since I'll start working on the CAD now. Majority of my supplies are going to be sourced from Digikey with "higher quality" items coming from Amazon.
