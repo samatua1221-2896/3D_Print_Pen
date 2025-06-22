@@ -40,4 +40,9 @@ So far this is what I have in my BOM, it's pretty messy but I think I should be 
 
 I actually did end up having a much harder time dealing with the actual PCB design of the baord once I realized that my tracks were probabaly too thin for the amount of power that I was trying to use. After plenty of time trying to figure out how to asign net classes to all of my parts, I eventually was able to wire everything up and after even MORE time I was able to manuever all of my wiring around the thicker lines. 
 
+![Screenshot 2025-06-21 8 05 26 PM](https://github.com/user-attachments/assets/fe79749f-b3bf-427d-867b-1afa534a65b0)
+![Screenshot 2025-06-21 8 05 56 PM](https://github.com/user-attachments/assets/7ef17aa5-97cd-477a-9ba4-de3519b92036)
+
 I did stop my journal a little early yesterday because of one of my brother's basketball games, but I did end up figuring out all of my BOM materials. So far, it's looking like it'll be around $100, well under the grant limit for my project I hope (fingers crossed!) Listed below is my current BOM that hopefully wont change much more since I'll start working on the CAD now. Majority of my supplies are going to be sourced from Digikey with "higher quality" items coming from Amazon.
+
+![Screenshot 2025-06-21 8 35 13 PM](https://github.com/user-attachments/assets/c7131e94-2cbb-46b5-809a-d3b2fc227a87)
