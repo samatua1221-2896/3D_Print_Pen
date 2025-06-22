@@ -48,3 +48,9 @@ I did stop my journal a little early yesterday because of one of my brother's ba
 ![Screenshot 2025-06-21 8 35 13 PM](https://github.com/user-attachments/assets/c7131e94-2cbb-46b5-809a-d3b2fc227a87)
 
 Now I'm going to start making mockups for the whole 3D pen in Onshape, hopefully it won't take too long.
+
+# June 22, 2025 (5 hrs)
+
+So that actually took a LOT longer than I thought it would take. I'm realizing now that a lot of the components are bigger than I previously thought they would be so I'm going to try and shift around the design a little bit to try and mae sure that I can keep what I have so far which is there below.
+
+![Screenshot 2025-06-22 1 20 25 AM](https://github.com/user-attachments/assets/783cc91b-34ca-4a41-b5d4-95756fcef85d)
