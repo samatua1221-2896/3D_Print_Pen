@@ -63,5 +63,5 @@ It's been a while since I've been able to work on the project, but now it loks l
 ![Screenshot 2025-06-28 7 54 03 PM](https://github.com/user-attachments/assets/fd2785b7-2fc6-4383-8c06-95dd6d59b10b)
 ![Screenshot 2025-06-28 7 45 57 PM](https://github.com/user-attachments/assets/529f8018-048b-4713-bf77-519b191ee0d6)
 
-
+Ok, I just finished writing up the code with a good amount of help from ChatGPT since I'm not super experienced in it but I do believe that I am now finished and now I'm going to be working on the README and the submission files, crossing fingers for a good result!
 
