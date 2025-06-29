@@ -54,3 +54,14 @@ Now I'm going to start making mockups for the whole 3D pen in Onshape, hopefully
 So that actually took a LOT longer than I thought it would take. I'm realizing now that a lot of the components are bigger than I previously thought they would be so I'm going to try and shift around the design a little bit to try and mae sure that I can keep what I have so far which is there below.
 
 ![Screenshot 2025-06-22 1 20 25 AM](https://github.com/user-attachments/assets/783cc91b-34ca-4a41-b5d4-95756fcef85d)
+
+# June 28, 2025 (3 hrs)
+
+It's been a while since I've been able to work on the project, but now it loks like that it should be wrapping up now. CAD is now I belive completely finished with so now I have a complete plan for where everything will go and how it will all work. I did have to change a couple of things due to the size of the nozzle. I was planning on having everything to do with the nozzle be wrapped inside of the case but I don't believe I'm skilled in CAD enough to know how to do it in a way that would protect the PCB and be physically stable. I did add a couple of things like ventilation holes on the side of the nozzle and shifted around the placement of the motor that will carry the filament. Aside from that, just minor things like smoothing out all the edges and making sure all my parts are the correct ones are pretty much all I have left for CAD. Soon I'll start on writing the code for it but it should be a pretty simple task.
+
+![Screenshot 2025-06-28 7 53 55 PM](https://github.com/user-attachments/assets/a39868c7-b90c-4188-8d13-2a0990ff9dc0)
+![Screenshot 2025-06-28 7 54 03 PM](https://github.com/user-attachments/assets/fd2785b7-2fc6-4383-8c06-95dd6d59b10b)
+![Screenshot 2025-06-28 7 45 57 PM](https://github.com/user-attachments/assets/529f8018-048b-4713-bf77-519b191ee0d6)
+
+
+
