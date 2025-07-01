@@ -40,15 +40,26 @@ Schematic Wiring
 ## Bill Of Materials
 
 |  Item   |  Quantity  |  Price  |  Link  |
-|          |          |          |         |
-|          |          |          |         |
-|          |          |          |         |
-|          |          |          |         |
-|          |          |          |         |
-|          |          |          |         |
-|          |          |          |         |
-|          |          |          |         |
-|          |          |          |         |
-|          |          |          |         |
-|          |          |          |         |
-|          |          |          |         |
+|------------------------------------------|---------|------------|--------|
+|      Arduino Nano    |    3      |     $7.99     |     https://www.amazon.com/YELUFT-ATmega328P-Microcontroller-Mini-USB/dp/B0DWMQVCRF/ref=sr_1_9?crid=3N1J84LJP6D8T&dib=eyJ2IjoiMSJ9.l25zh--muurGeoTSJmeooOXaF8A63oJ3_c-9fVVcHog5BGa4Lu2sPUkQxNLwgIW9jzwkfb0FuKb-xdIJ7CoDm4nfWcg_hOse8iSX0BVdCoWrOft-FsZH_LRwnKvv2QNP8DzT_T0FBm2K6c1-ryUEguuDBPjfuYehwj9scuuCvK3hnk_tx6lNvgV1F00UnO9U56-RpO-24WSspVKbrjiBYbu_g6KfBlel1uN68UF1GBK7dsJkTn6oMsSCKJ0GVjl3qGr4at7lzIT2sfEbrdl445vNXnM15akMi2Rq827A9Gc.wGK8uIL5xv32oeMyIoTqSfKMEPixhKiYXT65sDOd9bU&dib_tag=se&keywords=Arduino%2BNano%2BV3.0%2Bwith%2Bheaders&qid=1750405718&s=industrial&sprefix=arduino%2Bnano%2Bv3.0%2Bwith%2Bheaders%2Cindustrial%2C245&sr=1-9&th=1    |
+|     IRLZ44N MOSFET                       |     1      |     $1.30     |         |
+|     L293D Motor Driver IC                |     1      |     $7.85     |         |
+|     10K Potentiometer (Vertical Mount)   |     1      |     $0.78     |         |
+|     MK8 Hotend Heating Kit               |     1      |     $17.35     |         |
+|     12V 2A Power Adapter                 |     1      |     $0.00     |         |
+|     220 Ohm Resistor                     |     1      |     $0.10     |         |
+|     10K Resistor                         |     2      |     $0.10     |         |
+|     100uF 16V Electrolytic Capacitor     |     2      |     $0.20     |         |
+|     0.1uF Ceramic Capacitor              |     2      |     $0.20     |         |
+|     100K NTC Thermsistor EPCOS           |     1      |     $0.24     |         |
+|     Mini DC Motor 12V                    |     1      |     $0.44     |         |
+|     Terminal Block 2-pin 3.5 mm          |     2      |     $0.82     |         |
+|     Pin Header 1x2 2.54                  |     1      |     $7.31     |         |
+|     M3 Screws                            |     12     |     $0.72     |         |
+|     18 AWG Wire                          |     1      |          |         |
+|     22 AWG Wire                          |     1      |          |         |
+|     Buttons                              |     2      |          |         |
+|     Shipping for Digikey                 |     1      |          |         |
+|    3D Parts (Printing Legion)            |     1      |          |         |
+|     DC Barrel Jack                       |     1      |          |         |
+|     PCB & Shipping                       |     1      |          |         |
