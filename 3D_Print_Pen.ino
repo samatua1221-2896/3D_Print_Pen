@@ -41,10 +41,8 @@ float Kd = 50.0;
 const unsigned long DEBOUNCE_MS = 25;
 const unsigned long DOUBLE_MS   = 400;
 
-/* Safety limits */
 const uint16_t TEMP_MAX_SAFE = 260;   // °C, heater shutdown threshold
 
-/* ---------- ENUMS & STRUCTS ---------- */
 enum MotorState { STOPPED, FORWARD, REVERSE };
 
 struct Btn {
@@ -71,14 +69,12 @@ float pidPrevErr  = 0;
 unsigned long lastPIDms = 0;
 const unsigned long PID_INTERVAL_MS = 200;
 
-/* ---------- FUNCTION DECLARATIONS ---------- */
 float readTemperatureC();
 void  updatePID();
 void  setHeaterPWM(uint8_t duty);
 void  setMotor(MotorState st);
 void  handleButton(Btn &b, MotorState dir);
 
-/* -------------------- SETUP -------------------- */
 void setup() {
   pinMode(PIN_IN1, OUTPUT);
   pinMode(PIN_IN2, OUTPUT);
@@ -96,27 +92,22 @@ void setup() {
 #endif
 }
 
-/* -------------------- MAIN LOOP -------------------- */
 void loop() {
 
-  /* ----- BUTTON LOGIC FOR MOTOR ----- */
   handleButton(btnFwd, FORWARD);
   handleButton(btnRev, REVERSE);
 
-  /* ----- TEMPERATURE SETPOINT ----- */
   int potRaw = analogRead(PIN_POT);
   tempSetC = map(potRaw, 0, ADC_MAX, TEMP_MIN_C, TEMP_MAX_C);
 
-  /* ----- READ THERMISTOR ----- */
   tempNowC = readTemperatureC();
 
-  /* ----- SAFETY SHUTDOWN ----- */
   if (tempNowC > TEMP_MAX_SAFE || tempNowC < 0) {
     // Sensor failure or runaway
     setHeaterPWM(0);
   } else {
-    /* ----- PID HEATER CONTROL ----- */
-    unsigned long now = millis();
+
+     unsigned long now = millis();
     if (now - lastPIDms >= PID_INTERVAL_MS) {
       updatePID();
       lastPIDms = now;
@@ -134,9 +125,7 @@ void loop() {
 #endif
 }
 
-/* ====================================================
-   BUTTON HANDLER
-==================================================== */
+
 void handleButton(Btn &b, MotorState dir) {
   bool level = digitalRead(b.pin);
   unsigned long now = millis();
@@ -148,11 +137,10 @@ void handleButton(Btn &b, MotorState dir) {
   }
   if (now - b.lastChange < DEBOUNCE_MS) return;
 
-  /* On press (level LOW) */
   if (!level && !b.isDown) {
     b.isDown = true;
     if (now - b.firstClick < DOUBLE_MS) {          // Double click
-      b.latched = !b.latched;                      // Toggle latch
+      b.latched = !b.latched;                      // Continuous
       if (b.latched) setMotor(dir);
       else           setMotor(STOPPED);
       b.firstClick = 0;
@@ -176,9 +164,7 @@ void handleButton(Btn &b, MotorState dir) {
   if (b.isDown && !b.latched) setMotor(dir);
 }
 
-/* ====================================================
-   MOTOR CONTROL
-==================================================== */
+
 void setMotor(MotorState st) {
   motorState = st;
   switch (st) {
@@ -197,9 +183,8 @@ void setMotor(MotorState st) {
   }
 }
 
-/* ====================================================
-   HEATER PID
-==================================================== */
+
+
 void updatePID() {
   float err = tempSetC - tempNowC;
   pidIntegral += err * (PID_INTERVAL_MS / 1000.0);
