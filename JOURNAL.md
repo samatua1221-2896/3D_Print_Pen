@@ -2,6 +2,8 @@
 | ------------- | ------------- | ------------- | ----------|
 | Arm Assistant | @samatua1221-2896 | A custom 3D printing pen | 6/18/25 |
 
+### Overall Time Spent Designing as of July 1: 35 hrs
+
 # June 18, 2025 (7 hours)
 
 Today I decided I wanted to try and make a custom 3D printing pen that's pretty simple in terms of its ability but also has basic functionality. (I also really want some type of 3D printing tool like a 3D printer from highway maybe...) I started to base the concept off of MYNT3D's pen, it took me a little while but I was actually able to break it apart and figure out how the entire thing worked.
@@ -65,3 +67,6 @@ It's been a while since I've been able to work on the project, but now it loks l
 
 Ok, I just finished writing up the code with a good amount of help from ChatGPT since I'm not super experienced in it but I do believe that I am now finished and now I'm going to be working on the README and the submission files, crossing fingers for a good result!
 
+# July 1, 2025 (2 hrs)
+
+Today I really just spent time working on the README file and doing the finishing touches on all of my CAD files and labeling. Hopefully the project looks good and I'm going on the submission now, so wish me luck!
