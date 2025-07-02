@@ -41,6 +41,10 @@ Schematic Wiring
 
 Most of this is a pretty straightforward setup with the PCB board being the main center of the pen that has all of the THT components sticking out of the case in order or operation to happen. If it is not defined inside of the 3D model how something is secured, the object is glued to the nearest surrounding case area. For example, the hotend nozzle will be glued to the innermost cylinder in order to minimize the amount of screws and scructural instability inside of the case itself.
 
+## Side Notes
+
+I do understand the preference of getting supplies from places like AliExpress, but unfortunately, living in Hawaii removes a lot of the options that are even availble on such websites. The best option for getting things to Hawaii in time for the Highway event is unfortunately going to need increased shipping. (Just for context, the PCB I ordered at the beginning on June still hasn't arrived yet) That means that some items in my BOM are a little pricier that AliExpress or otherwise counterparts but they are guaranteed able to arrive on time for the end of the event.
+
 ## Bill Of Materials
 
 |                     Item               |  Quantity |      Price    |                                      Link                                    |
