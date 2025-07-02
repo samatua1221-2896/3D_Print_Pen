@@ -37,6 +37,10 @@ Schematic Wiring
 
 ![printPenSchematic](https://github.com/user-attachments/assets/828af017-3fdc-4684-8506-7fb776147e23)
 
+## Assembly Instructions
+
+Most of this is a pretty straightforward setup with the PCB board being the main center of the pen that has all of the THT components sticking out of the case in order or operation to happen. If it is not defined inside of the 3D model how something is secured, the object is glued to the nearest surrounding case area. For example, the hotend nozzle will be glued to the innermost cylinder in order to minimize the amount of screws and scructural instability inside of the case itself.
+
 ## Bill Of Materials
 
 |                     Item               |  Quantity |      Price    |                                      Link                                    |
