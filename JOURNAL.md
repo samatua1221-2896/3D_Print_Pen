@@ -70,3 +70,8 @@ Ok, I just finished writing up the code with a good amount of help from ChatGPT 
 # July 1, 2025 (2 hrs)
 
 Today I really just spent time working on the README file and doing the finishing touches on all of my CAD files and labeling. Hopefully the project looks good and I'm going on the submission now, so wish me luck!
+
+
+# July 24, 2025
+
+Finally got my grant and some of the parts started to arrive today, going to wait until tomorrow to start soldering everything together so I can get the rest of my packages coming from Amazon.
